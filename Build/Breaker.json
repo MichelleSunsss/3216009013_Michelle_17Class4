@@ -1,0 +1,17 @@
+{
+"companyName": "Michelle_VIT",
+"productName": "BlockBreaker",
+"productVersion": "0.1",
+"dataUrl": "Breaker.data.unityweb",
+"wasmCodeUrl": "Breaker.wasm.code.unityweb",
+"wasmFrameworkUrl": "Breaker.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Breaker.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.21f1"
+}
